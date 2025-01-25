@@ -1,3 +1,5 @@
+//Desarrollador: Eliud Arango
+//24/01/2025
 
 /*Cambia el contenido de la etiqueta h1 con document.querySelector y 
 asigna el siguiente texto: "Hora del Desafío".*/
@@ -35,3 +37,4 @@ let resultado = numero1+numero2;
 
 alert("El resultado de la suma de los 2 números es: "+resultado);
 }
+
